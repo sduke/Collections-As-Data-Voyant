@@ -12,7 +12,8 @@
 4. Open the text files using a default text editor 
     * Double click on filename and let the computer launch the application 
 
-# Quick discussion: What are some potential issues with the text files
+# Quick discussion
+* What are some potential issues with the text files?
 
 # Data Cleaning
 1.  Rename File
