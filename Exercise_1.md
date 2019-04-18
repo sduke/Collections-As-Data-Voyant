@@ -12,11 +12,20 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
 * **If on a Windows machine**, you may need to uncompress the folder before you can open the individual text files. 
 
 ## Prepare Files
+### Open Files in Text Editor 
 1. Launch the Oxygen XML Editor (blue icon).
     * X-out of the zillions of windows.
  2. In the top menu, select Project => New Project
- 3. In the pop-up Box, select the folder on your Desktop: **hamilton-all-letters** AND rename the Project from "newProject.xpr" to "hamilton.xpr". 
- 4. Save new Project to Desktop 
+ 3. In the pop-up Box: 
+   3. Select the folder on your Desktop: **hamilton-all-letters** 
+   3. Rename the Project from "newProject.xpr" to "hamilton.xpr". 
+ 4. Save new Project, "hamilton.xpr," to Desktop 
+ 
+ ### Review Files in Text Editor
+1. Go to Oxygen XML Editor Preferences:
+   1. Select "Editor" => 
+2. Expand the hamilton-all-letters folder (click the arrow next to hamilton-all-letters)
+3. 
 
 # Quick discussion
 * What are some potential issues with the text files?
