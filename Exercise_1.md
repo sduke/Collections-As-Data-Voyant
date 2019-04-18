@@ -6,7 +6,7 @@
      2. Right click on "Hamilton-Data-Clean-Up" link
         * Select "Download Linked File As"
         * Save the "Hamilton-Data-Clean-Up" folder to your Desktop 
-**If on a Windows machine**, you may need to uncompress the folder before you can open the individual text files. 
+    * **If on a Windows machine**, you may need to uncompress the folder before you can open the individual text files. 
 3. Open the text files using a default text editor 
     * Double click on filename and let the computer launch the application 
 4. Reference the Founder's Archive website for the [Hamilton Papers](https://founders.archives.gov/search/Project:%22Hamilton%20Papers%22) 
