@@ -22,5 +22,6 @@
 1.  Rename Files
 2.  Expand abbreviations (check with SD)
 3.  Expand names/references to people (Mrs. H => Elizabeth, check with SD)
-2.  Remove footnotes
+4.  Seperate words smooshed together (check with SD)
+5.  Remove footnotes
 
