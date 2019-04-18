@@ -97,8 +97,22 @@ _Concatenating compound terms is a quick and east way to tokenize concepts for t
    * **New England** => **New_England**
 
 ### Expand Abbreviations
-1. 
+1. In the top menu, select: "Find" => "Find/Replace in Files"  
+2. In "Text to find," search for: 
+   * **Obed**
+   * Click "Find All"
+   * Review the results
+3. In the top menu, select: "Find" => "Find/Replace in Files"  
+   3. In "Text to find," enter **Obed**
+   3. In the "Replace with," enter **Obedient**
+   3. Click "Replace All ..."
+4. Repeat steps 2 & 3 to replace the following names:
+   * **Obdt.** => **Obedient**
+   * **Obt** => **Obedient**
+   * **Serv** => **Servant**
+   * **Servt** => **Servant**
 
 ## Visualize Files 
-* 
+* [Original Texts (Unclean) in Voyant](https://voyant-tools.org/?corpus=81e81929a4449f69d83384ac026bc4c0&panels=cirrus,reader,trends,summary,contexts)
+* [Cleaned Texts in Voyant](https://voyant-tools.org/?corpus=675f8a138b3f4435b892bb0564226542&panels=cirrus,reader,trends,summary,contexts) 
 
