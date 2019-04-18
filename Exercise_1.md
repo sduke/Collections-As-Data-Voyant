@@ -13,7 +13,7 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
 
 ## Prepare Files
 ### Open Files in Text Editor 
-1. Launch the Oxygen XML Editor (blue icon).
+1. Launch the Oxygen XML Editor (blue icon with red X).
     * X-out of the zillions of windows.
  2. In the top menu, select Project => New Project
  3. In the pop-up Box: 
@@ -22,10 +22,10 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
  4. Save new Project, "hamilton.xpr," to Desktop 
  
  ### Review Files in Text Editor
-1. Go to Oxygen XML Editor Preferences:
-   1. Select "Editor" => 
-2. Expand the hamilton-all-letters folder (click the arrow next to hamilton-all-letters)
-3. 
+1. Expand the hamilton-all-letters folder (click the arrow next to hamilton-all-letters)
+2. Double click on letters of interest to view the fulltext. 
+3. To wrap text for readability, select Document in the top menu for each letter you open:
+   2. Select "Edit" => "Toggle Line Wrap"
 
 # Quick discussion
 * What are some potential issues with the text files?
