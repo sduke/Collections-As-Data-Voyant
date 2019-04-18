@@ -19,6 +19,8 @@
 * What are some potential issues with the text files?
 
 # Data Cleaning
-1.  Rename File
+1.  Rename Files
+2.  Expand abbreviations (check with SD)
+3.  Expand names/references to people (Mrs. H => Elizabeth, check with SD)
 2.  Remove footnotes
 
