@@ -1,27 +1,27 @@
-# Prepare Files
-1. Download the the unedited letter files here: [Hamilton-Data-Clean-Up](https://github.com/sduke/Collections-As-Data-Voyant/raw/master/Hamilton-Data-Clean-Up.zip)
-2. Save "Hamilton-Data-Clean-Up" folder to Desktop in 1 of 2 ways:
-    1. Clicking on "Hamilton-Data-Clean-Up" should trigger an automatic download.
-        * Move "Hamilton-Data-Clean-Up" folder from downloads folder to desktop for easy access.
-     2. Right click on "Hamilton-Data-Clean-Up" link
-        * Select "Download Linked File As"
-        * Save the "Hamilton-Data-Clean-Up" folder to your Desktop 
-    * **If on a Windows machine**, you may need to uncompress the folder before you can open the individual text files. 
-3. Open the text files using a default text editor 
-    * Double click on filename and let the computer launch the application 
-4. Reference the Founder's Archive website for the [Hamilton Papers](https://founders.archives.gov/search/Project:%22Hamilton%20Papers%22) 
-    * [Letter to James Duane, September 3, 1780](https://founders.archives.gov/?q=Project%3A%22Hamilton%20Papers%22%20and%20September%201780%20Recipient%3A%22Duane%2C%20James%22&s=1311311111&r=1)
-    * [Letter to Marquis de Barbé-Marbois, May 6, 1780](https://founders.archives.gov/?q=Project%3A%22Hamilton%20Papers%22%20marquis%20de%20bar%2A%20may&s=2311311113&r=12)
-    * [Letter to UNKNOWN, October 12, 1782](https://founders.archives.gov/?q=Project%3A%22Hamilton%20Papers%22%20Albany%2C%20October%2012%2C%201782&s=2311311113&r=4)
-    * [Letter to George Washington, August 5, 1794](https://founders.archives.gov/?q=Project%3A%22Hamilton%20Papers%22%20disagreeable%20crisis&s=2311311113&r=5)
+# Exercise 1: Data Gathering, Prepping & Cleaning
+
+We will be working with letters from the Founder's Archive website -- the [Hamilton Papers](https://founders.archives.gov/search/Project:%22Hamilton%20Papers%22). 
+
+## Gather Files
+1. Download two sets of folders: 
+    * [hamilton-all-letters](https://github.com/sduke/Collections-As-Data-Voyant/blob/master/hamilton-all-letters.zip) (compressed files)
+    * [hamilton-all-letters_clean](https://github.com/sduke/Collections-As-Data-Voyant/blob/master/hamilton-all-letters_clean.zip)(compressed files)
+
+2. Save both folders to Desktop for each access
+
+* **If on a Windows machine**, you may need to uncompress the folder before you can open the individual text files. 
+
+## Prepare Files
+1. Launch the Oxygen XML Editor (blue icon).
+    * X-out of the zillions of windows.
+ 2. In the top menu, select Project => New Project
+ 3. In the pop-up Box, select the folder on your Desktop: **hamilton-all-letters** AND rename the Project from "newProject.xpr" to "hamilton.xpr". 
+ 4. Save new Project to Desktop 
 
 # Quick discussion
 * What are some potential issues with the text files?
 
-# Data Cleaning
-1.  Rename Files
-2.  Expand abbreviations (check with SD)
-3.  Expand names/references to people (Mrs. H => Elizabeth, check with SD)
-4.  Seperate words smooshed together (check with SD)
-5.  Remove footnotes
+## Clean Files 
+
+## Visualize Files 
 
