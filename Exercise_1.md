@@ -5,7 +5,7 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
 ## Gather Files
 1. Download two sets of folders: 
     * [hamilton-all-letters](https://github.com/sduke/Collections-As-Data-Voyant/blob/master/hamilton-all-letters.zip) (compressed files)
-    * [hamilton-all-letters_clean](https://github.com/sduke/Collections-As-Data-Voyant/blob/master/hamilton-all-letters_clean.zip)(compressed files)
+    * [hamilton-all-letters_clean](https://github.com/sduke/Collections-As-Data-Voyant/blob/master/hamilton-all-letters_clean.zip) (compressed files)
 
 2. Save both folders to Desktop for easy access
 
@@ -14,7 +14,7 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
 ## Prepare Files
 ### Open Files in Text Editor 
 1. Launch the Oxygen XML Editor (blue icon with red X).
-    * X-out of the zillions of windows.
+    * Close the zillions of windows
     * Go to Oxygen XML Preferences => "Encoding"
     * Change Encoding Errors Handling to "IGNORE"
     * Select "OK" in bottom right
@@ -24,7 +24,7 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
    3. Rename the Project from "newProject.xpr" to "hamilton.xpr". 
  4. Save new Project, "hamilton.xpr," to Desktop 
  
- ### Review Files in Text Editor
+ ### Review Files in Oxygen XML Editor
 1. Expand the **hamilton-all-letters** folder (click the arrow next to hamilton-all-letters)
 2. Double click on letters of interest to view the fulltext. 
 3. To wrap text for readability, select Document in the top menu for each letter you open:
