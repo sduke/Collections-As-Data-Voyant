@@ -20,15 +20,15 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
     * Select "OK" in bottom right
  2. In the top menu, select "Project" => "New Project"
  3. In the pop-up:
-   1. Select the folder on your Desktop: **hamilton-all-letters** 
-   2. Rename the Project from "newProject.xpr" to "hamilton.xpr". 
+   * Select the folder on your Desktop: **hamilton-all-letters** 
+   * Rename the Project from "newProject.xpr" to "hamilton.xpr". 
  4. Save new Project, "hamilton.xpr," to Desktop 
  
  ### Review Files in Oxygen XML Editor
 1. Expand the **hamilton-all-letters** folder (click the arrow next to hamilton-all-letters)
 2. Double click on letters of interest to view the fulltext. 
 3. To wrap text for readability, select Document in the top menu for each letter you open:
-   3. Select "Edit" => "Toggle Line Wrap"
+   * Select "Edit" => "Toggle Line Wrap"
 
 # Quick discussion
 * What are some potential issues with the text files?
@@ -39,11 +39,11 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
 * Expand abbreviations (_if we have time_)
 
 1. Open **hamilton-all-letters** project in the Oxygen XML Editor
-2. In the top menu, select: "Find" => "Find/Replace in Files" 
-   2. In pop-up:
-      2. Under Text to Find, CHECK "Whole words only"
-      2. Under Replace with," UNCHECK "Make backup files with extension"
-      2. Under Scope, SELECT "Project"
+2. In the top menu, select: "Find" => "Find/Replace in Files"
+   * In pop-up:
+      * Under Text to Find, CHECK "Whole words only"
+      * Under Replace with," UNCHECK "Make backup files with extension"
+      * Under Scope, SELECT "Project"
 
 ### Name Normalization
 _We will normalize references to Hamilton's wife, Elizabeth._
@@ -54,10 +54,10 @@ _We will normalize references to Hamilton's wife, Elizabeth._
    * **Mrs. H** 
    * Click "Find All"
    * Review the results
-3. In the top menu, select: "Find" => "Find/Replace in Files"  
-      3. In "Text to find," enter **Mrs. H**
-      3. In the "Replace with," enter **Elizabeth**
-      3. Click "Replace All ..."
+3. In the top menu, select: "Find" => "Find/Replace in Files"
+   * In "Text to find," enter **Mrs. H**
+   * In the "Replace with," enter **Elizabeth**
+   * Click "Replace All ..."
 4. Repeat steps 2 & 3 to replace the following names to **Elizabeth**:
    * **Eliza**
    * **Mrs. Hamilton**
@@ -69,10 +69,10 @@ _We will normalize references to Hamilton's wife, Elizabeth._
    * **Washington** 
    * Click "Find All"
    * Review the results
-3. In the top menu, select: "Find" => "Find/Replace in Files"  
-      3. In "Text to find," enter **Mrs. Washington**
-      3. In the "Replace with," enter **Martha**
-      3. Click "Replace All ..."
+3. In the top menu, select: "Find" => "Find/Replace in Files"
+   * In "Text to find," enter **Mrs. Washington**
+   * In the "Replace with," enter **Martha**
+   * Click "Replace All ..."
 4. Repeat steps 2 & 3 to replace the following names to:
    * **Mrs. Martha Washington** => **Martha**
    * **His Excellency General Washington** => **Washington**
@@ -86,10 +86,10 @@ _Concatenating compound terms is a quick and easy way to tokenize concepts for t
    * **Elizabeth Town**
    * Click "Find All"
    * Review the results
-3. In the top menu, select: "Find" => "Find/Replace in Files"  
-      3. In "Text to find," enter **Elizabeth Town**
-      3. In the "Replace with," enter **Elizabeth_Town**
-      3. Click "Replace All ..."
+3. In the top menu, select: "Find" => "Find/Replace in Files"
+   * In "Text to find," enter **Elizabeth Town**
+   * In the "Replace with," enter **Elizabeth_Town**
+   * Click "Replace All ..."
 4. Repeat steps 2 & 3 to replace the following names:
    * **Fort Washington** => **Fort Washington**
    * **New York** => **New_York**
