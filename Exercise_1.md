@@ -19,9 +19,9 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
     * Change Encoding Errors Handling to "IGNORE"
     * Select "OK" in bottom right
  2. In the top menu, select "Project" => "New Project"
- 3. In the pop-up: 
-   3. Select the folder on your Desktop: **hamilton-all-letters** 
-   3. Rename the Project from "newProject.xpr" to "hamilton.xpr". 
+ 3. In the pop-up:
+   1. Select the folder on your Desktop: **hamilton-all-letters** 
+   2. Rename the Project from "newProject.xpr" to "hamilton.xpr". 
  4. Save new Project, "hamilton.xpr," to Desktop 
  
  ### Review Files in Oxygen XML Editor
