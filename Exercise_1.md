@@ -79,7 +79,7 @@ _We will normalize references to Hamilton's wife, Elizabeth._
    * **His Excellency** => **Washington** (note the case insensitivity)
 
 ### Concatenate Place Names
-_Concatenating compound terms is a quick and east way to tokenize concepts for text analysis._
+_Concatenating compound terms is a quick and easy way to tokenize concepts for text analysis._
 
 1. In the top menu, select: "Find" => "Find/Replace in Files"  
 2. In "Text to find," search for: 
