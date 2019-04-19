@@ -20,8 +20,8 @@ We will be working with letters from the Founder's Archive website -- the [Hamil
     * Select "OK" in bottom right
  2. In the top menu, select "Project" => "New Project"
  3. In the pop-up:
-   * Select the folder on your Desktop: **hamilton-all-letters** 
-   * Rename the Project from "newProject.xpr" to "hamilton.xpr". 
+      * Select the folder on your Desktop: **hamilton-all-letters** 
+      * Rename the Project from "newProject.xpr" to "hamilton.xpr". 
  4. Save new Project, "hamilton.xpr," to Desktop 
  
  ### Review Files in Oxygen XML Editor
