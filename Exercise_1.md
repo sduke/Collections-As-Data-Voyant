@@ -55,9 +55,9 @@ _We will normalize references to Hamilton's wife, Elizabeth._
    * Click "Find All"
    * Review the results
 3. In the top menu, select: "Find" => "Find/Replace in Files"  
-   3. In "Text to find," enter **Mrs. H**
-   3. In the "Replace with," enter **Elizabeth**
-   3. Click "Replace All ..."
+      3. In "Text to find," enter **Mrs. H**
+      3. In the "Replace with," enter **Elizabeth**
+      3. Click "Replace All ..."
 4. Repeat steps 2 & 3 to replace the following names to **Elizabeth**:
    * **Eliza**
    * **Mrs. Hamilton**
@@ -70,9 +70,9 @@ _We will normalize references to Hamilton's wife, Elizabeth._
    * Click "Find All"
    * Review the results
 3. In the top menu, select: "Find" => "Find/Replace in Files"  
-   3. In "Text to find," enter **Mrs. Washington**
-   3. In the "Replace with," enter **Martha**
-   3. Click "Replace All ..."
+      3. In "Text to find," enter **Mrs. Washington**
+      3. In the "Replace with," enter **Martha**
+      3. Click "Replace All ..."
 4. Repeat steps 2 & 3 to replace the following names to:
    * **Mrs. Martha Washington** => **Martha**
    * **His Excellency General Washington** => **Washington**
@@ -87,9 +87,9 @@ _Concatenating compound terms is a quick and easy way to tokenize concepts for t
    * Click "Find All"
    * Review the results
 3. In the top menu, select: "Find" => "Find/Replace in Files"  
-   3. In "Text to find," enter **Elizabeth Town**
-   3. In the "Replace with," enter **Elizabeth_Town**
-   3. Click "Replace All ..."
+      3. In "Text to find," enter **Elizabeth Town**
+      3. In the "Replace with," enter **Elizabeth_Town**
+      3. Click "Replace All ..."
 4. Repeat steps 2 & 3 to replace the following names:
    * **Fort Washington** => **Fort Washington**
    * **New York** => **New_York**
@@ -103,9 +103,9 @@ _Concatenating compound terms is a quick and easy way to tokenize concepts for t
    * Click "Find All"
    * Review the results
 3. In the top menu, select: "Find" => "Find/Replace in Files"  
-   3. In "Text to find," enter **Obed**
-   3. In the "Replace with," enter **Obedient**
-   3. Click "Replace All ..."
+      3. In "Text to find," enter **Obed**
+      3. In the "Replace with," enter **Obedient**
+      3. Click "Replace All ..."
 4. Repeat steps 2 & 3 to replace the following names:
    * **Obdt.** => **Obedient**
    * **Obt** => **Obedient**
